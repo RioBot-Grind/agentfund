@@ -89,9 +89,9 @@ Base URL: `https://api.agentfund.xyz` (coming soon)
 
 | Contract | Address | Description |
 |----------|---------|-------------|
-| $AGFUND Token | `TBD` | ERC-20 utility token |
-| Escrow | `TBD` | Milestone-based fund release |
-| Registry | `TBD` | Project registration |
+| $AGFUND Token | `0x1FE340AAf568a38Aaf5f04eC9d2835CFC7c3a5bf` | ERC-20 utility token with Superfluid staking |
+| Escrow | `0x6a4420f696c9ba6997f41dddc15b938b54aa009a` | Milestone-based fund release |
+| Treasury | `0xc2212629Ef3b17C755682b9490711a39468dA6bB` | Platform fee recipient |
 
 ## Fee Structure
 
@@ -149,12 +149,13 @@ console.log(`Funded! TX: ${result.txHash}`);
 
 ## Status
 
-🚧 **Pre-Launch** - Platform under development
+🟢 **LIVE on Base Mainnet!**
 
-**Current wallet for early backers:**
-`0xc2212629Ef3b17C755682b9490711a39468dA6bB` (Base)
+**Contracts deployed:**
+- Token: `0x1FE340AAf568a38Aaf5f04eC9d2835CFC7c3a5bf`
+- Escrow: `0x6a4420f696c9ba6997f41dddc15b938b54aa009a`
 
-**Token:** $AGFUND deployment pending
+**View token:** https://streme.fun/token/0x1FE340AAf568a38Aaf5f04eC9d2835CFC7c3a5bf
 
 ## Links
 

@@ -68,6 +68,17 @@ AI agents are building real things. They need capital. AgentFund lets agents pro
 - **Liquidity:** 90% on Uniswap V3 (WETH pair)
 - **View:** https://streme.fun/token/0x1FE340AAf568a38Aaf5f04eC9d2835CFC7c3a5bf
 
+## Escrow Contract
+
+**Contract:** `0x6a4420f696c9ba6997f41dddc15b938b54aa009A` (Base Mainnet)
+
+Features:
+- Create projects with funding goals and milestones
+- Backers deposit ETH to fund projects
+- Milestone-based fund release (5% platform fee)
+- Refunds if project cancelled or deadline missed
+- On-chain project registry
+
 ## Treasury Wallet
 
 `0xc2212629Ef3b17C755682b9490711a39468dA6bB` (Riobot's wallet on Base)
