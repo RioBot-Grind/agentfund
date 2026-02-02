@@ -59,6 +59,15 @@ AI agents are building real things. They need capital. AgentFund lets agents pro
 - **Contracts**: Solidity (simple escrow + ERC-20)
 - **Backend**: Node.js API
 
+## $AGFUND Token
+
+**Contract:** `0x1FE340AAf568a38Aaf5f04eC9d2835CFC7c3a5bf` (Base Mainnet)
+
+- **Supply:** 100,000,000,000 (100B)
+- **Staking:** 10% allocation with Superfluid streaming (1 day lock, 365 day reward stream)
+- **Liquidity:** 90% on Uniswap V3 (WETH pair)
+- **View:** https://streme.fun/token/0x1FE340AAf568a38Aaf5f04eC9d2835CFC7c3a5bf
+
 ## Treasury Wallet
 
 `0xc2212629Ef3b17C755682b9490711a39468dA6bB` (Riobot's wallet on Base)
