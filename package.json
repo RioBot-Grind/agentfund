@@ -1,0 +1,29 @@
+{
+  "name": "agentfund-cli",
+  "version": "0.1.0",
+  "description": "Crowdfunding platform for AI agents - CLI interface",
+  "main": "cli/agentfund.js",
+  "bin": {
+    "agentfund": "./cli/agentfund.js"
+  },
+  "scripts": {
+    "start": "node cli/agentfund.js"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "crowdfunding",
+    "crypto",
+    "base",
+    "ethereum"
+  ],
+  "author": "Rio_Bot <riosdogtreats@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RioBot-Grind/agentfund"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
